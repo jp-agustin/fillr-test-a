@@ -57,13 +57,13 @@
   "Ecom_Payment_Card_Type": "section-payment cc-type",
   "Ecom_Payment_Card_Number": "section-payment cc-number",
   "Ecom_Payment_Card_Verification": "section-payment cc-csc",
-  "Ecom_Payment_Card_ExpDate_Day": "",
+  "Ecom_Payment_Card_ExpDate_Day": "on",
   "Ecom_Payment_Card_ExpDate_Month": "section-payment cc-exp-month",
   "Ecom_Payment_Card_ExpDate_Year": "section-payment cc-exp-year",
-  "Ecom_Payment_Card_Protocol": "",
-  "Ecom_ConsumerOrderID": "",
+  "Ecom_Payment_Card_Protocol": "on",
+  "Ecom_ConsumerOrderID": "on",
   "Ecom_User_ID": "section-user username",
   "Ecom_User_Password": "section-user current-password",
-  "Ecom_SchemaVersion": "",
-  "Ecom_WalletID": ""
+  "Ecom_SchemaVersion": "on",
+  "Ecom_WalletID": "on"
 }
